@@ -3,8 +3,9 @@
  Plesae if you need help with anything or something related to my repos tell me!!
  If you are here because I send you a link to here or I'm showing this to you rn hello :)
 
- I'm currently learning lua, e2 and sf
- I already know some python, karel, logo and a little bit of bash
+ Currently learning c++ & c#
+
+ Also working in a discord relay
 
  If you want to collaborate or need help/ need anything contact me in discord
  -- el_patito
