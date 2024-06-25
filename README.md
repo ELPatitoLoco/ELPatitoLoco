@@ -7,9 +7,8 @@
 
  Also working in a discord relay
 
- If you want to collaborate or need help/ need anything contact me in discord
- -- el_patito
 
+[![Anurag's GitHub stats](github-readme-stats-seven-xi-68.vercel.app/api?username=el_patito_loco)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ELPatitoLoco/ELPatitoLoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
