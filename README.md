@@ -22,7 +22,6 @@ The lenguages and tools I use:
 <h1 align="left"> Stats </h1>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-seven-xi-68.vercel.app/api?username=ElPatitoLoco&show_icons=true&theme=gruvbox&custom_title=My ‌᠌᠌𝅵github stats)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats-seven-xi-68.vercel.app/api/top-langs/?username=ElPatitoLoco&layout=compact)
 
 
