@@ -2,12 +2,8 @@
  
 **Welcome to my profile!!**
 
-Hello I'm el_patito idk why you are in my profile but you are welcome!!! Plesae if you need help with anything or something related to my repos tell me!!
-<br>
-I love tech and programming ❤
+* 📚Currently learning c++ & c#
 
-* 📚Currently learning c# & kotlin
-* Working on a discord relay
 
 The lenguages and tools I use:
 <div align="left">
